@@ -1,0 +1,10 @@
+# ninja log v6
+20	2508	7539625678298194	CMakeFiles/TSP_2.dir/Source/Class/BestFirst.cpp.obj	cbaf1e3fa5dfeafa
+16	2553	7539625678258200	CMakeFiles/TSP_2.dir/Source/Class/BFS.cpp.obj	715d9fe19cbed3c0
+12	2476	7539625678223091	CMakeFiles/TSP_2.dir/Source/Class/DFS.cpp.obj	ac0607fe7f992075
+1759	1991	7539627487189143	TSP_2.exe	707b68a004a47dcd
+25	2509	7539625678343760	CMakeFiles/TSP_2.dir/Source/Class/Run.cpp.obj	c2745d005f115d68
+5	1759	7539627469649362	CMakeFiles/TSP_2.dir/Source/Class/main.cpp.obj	187ded09e9a21c44
+11	168	7539161700647653	CMakeFiles/TSP_2.dir/Source/Libraries/iniParser/ini.cpp.obj	da4eb2e2b911d042
+5	813	7539161700591771	CMakeFiles/TSP_2.dir/Source/Libraries/iniParser/INIReader.cpp.obj	4bfb1cd1f13856b2
+29	2379	7539625678397687	CMakeFiles/TSP_2.dir/Source/Class/NearestNeighbour.cpp.obj	715f53097a2df4bc

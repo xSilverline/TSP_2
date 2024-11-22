@@ -1,0 +1,5 @@
+Input file	matrix_14.txt
+Optimal cost	2222
+Time DFS Rep 1	2665,5395
+Time BFS Rep 1	2838,7403
+Time Best Rep 1	5421,5885

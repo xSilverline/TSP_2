@@ -1,0 +1,35 @@
+Input file	matrix_8.txt
+Optimal cost	136
+Time DFS Rep 1	0,1977
+Time BFS Rep 1	3,6145
+Time Best Rep 1	0,2760
+Time DFS Rep 2	0,2316
+Time BFS Rep 2	3,5445
+Time Best Rep 2	0,2687
+Time DFS Rep 3	0,1848
+Time BFS Rep 3	3,5259
+Time Best Rep 3	0,2651
+Time DFS Rep 4	0,1988
+Time BFS Rep 4	3,6131
+Time Best Rep 4	0,2880
+Time DFS Rep 5	0,1969
+Time BFS Rep 5	3,5463
+Time Best Rep 5	0,2787
+Time DFS Rep 6	0,1806
+Time BFS Rep 6	3,6702
+Time Best Rep 6	0,3093
+Time DFS Rep 7	0,1836
+Time BFS Rep 7	3,4991
+Time Best Rep 7	0,2754
+Time DFS Rep 8	0,1823
+Time BFS Rep 8	4,1785
+Time Best Rep 8	0,2888
+Time DFS Rep 9	0,1827
+Time BFS Rep 9	3,4054
+Time Best Rep 9	0,2918
+Time DFS Rep 10	0,1783
+Time BFS Rep 10	3,5370
+Time Best Rep 10	0,2723
+Avg Time DFS 	0,1917
+Avg Time BFS 	3,6134
+Avg Time Best 	0,2814

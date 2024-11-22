@@ -1,0 +1,35 @@
+Input file	matrix_12.txt
+Optimal cost	264
+Time DFS Rep 1	176,0639
+Time BFS Rep 1	183,7497
+Time Best Rep 1	308,0270
+Time DFS Rep 2	165,2472
+Time BFS Rep 2	183,5312
+Time Best Rep 2	311,6586
+Time DFS Rep 3	165,8853
+Time BFS Rep 3	187,5938
+Time Best Rep 3	307,8230
+Time DFS Rep 4	166,3289
+Time BFS Rep 4	183,8111
+Time Best Rep 4	309,6747
+Time DFS Rep 5	165,5027
+Time BFS Rep 5	185,2839
+Time Best Rep 5	310,1694
+Time DFS Rep 6	165,5647
+Time BFS Rep 6	183,4981
+Time Best Rep 6	313,3844
+Time DFS Rep 7	166,2160
+Time BFS Rep 7	183,2600
+Time Best Rep 7	311,2629
+Time DFS Rep 8	165,9025
+Time BFS Rep 8	167,2686
+Time Best Rep 8	309,7234
+Time DFS Rep 9	166,5298
+Time BFS Rep 9	185,3931
+Time Best Rep 9	307,7517
+Time DFS Rep 10	150,2409
+Time BFS Rep 10	183,2063
+Time Best Rep 10	310,2415
+Avg Time DFS 	165,3482
+Avg Time BFS 	182,6596
+Avg Time Best 	309,9717
